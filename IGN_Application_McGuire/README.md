@@ -43,9 +43,9 @@ Question 3. Word Search Challenge
 =============
 The word search was a lot of fun to solve. I coded the program in java and below you will find a screen shot of the solution. The solution can be found in the Wordsearch folder.
 
-![Alt text](/screenshots/ws1.png?raw=true)
+![Alt text](/screenshots/ws1.PNG)
 
-![Alt text](/screenshots/ws2.png?raw=true)
+![Alt text](/screenshots/ws2.PNG)
 
 
 Question 4. API Display List
