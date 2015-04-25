@@ -43,33 +43,35 @@ Question 3. Word Search Challenge
 =============
 The word search was a lot of fun to solve. I coded the program in java and below you will find a screen shot of the solution. The solution can be found in the Wordsearch folder.
 
-![Alt text](/screenshots/ws1.PNG)
+![Alt text](./screenshots/ws1.PNG?raw=true)
 
-![Alt text](/screenshots/ws2.PNG)
+![Alt text](./screenshots/ws2.PNG)
 
 
 Question 4. API Display List
 =============
 I created the program in Java that displays the list of videos and articles using IGN's API. I parsed through the JSON data using the org.json package. Below you will find screenshots of how the solution appears. The solution can be found in the IGNJSONRequest folder.
 
-![Alt text](/screenshots/ignjsonp1.png?raw=true)
+![Alt text](./screenshots/ignjsonp1.PNG?raw=true)
 
-![Alt text](/screenshots/ignjsonp2.png?raw=true)
+![Alt text](./screenshots/ignjsonp2.PNG?raw=true)
 
 
 Question 5. App that uses the API and matches the design
 =============
 Using IGN's provided API I tackled the challenge by making an Android app that mimics the design of the provided screenshot. I pulled the JSON data using volley for speed and efficiency. I matched the design to fit the provided screenshot. Below you will find screenshots of the app. The solution can be found in the IGN_API_Android folder.
 
-![Alt text](/screenshots/nex3.png?raw=true)
+*quick note: the images show the footer with a divder, the footer divider has since been disabled.  
 
-![Alt text](/screenshots/nex1.png?raw=true)
+![Alt text](./screenshots/nex3.png?raw=true)
 
-![Alt text](/screenshots/nex2.png?raw=true)
+![Alt text](./screenshots/nex1.png?raw=true)
 
-![Alt text](/screenshots/ignapp1.png?raw=true)
+![Alt text](./screenshots/nex2.png?raw=true)
 
-![Alt text](/screenshots/ignapp2.png?raw=true)
+![Alt text](./screenshots/ignapp1.PNG?raw=true)
+
+![Alt text](./screenshots/ignapp2.PNG?raw=true)
 
 
 Bonus Question. Programmatically Make a Battleship Game
@@ -77,10 +79,10 @@ Bonus Question. Programmatically Make a Battleship Game
 The battleship game was a lot of fun to make. I created the game in java and it has one user controlled player and one AI controlled opponent that will put your skills to the test. The program takes a lot of code and a lot of checks and balances. Anyways, I hope you enjoy playing the game, I put some jokes in to hopefully increase the fun factor. The game is played entirely in the console. Below you'll find screenshots of the game. The solution can be found in the Battleship folder.
 
 
-![Alt text](/screenshots/bs1.png?raw=true)
+![Alt text](./screenshots/bs1.PNG?raw=true)
 
-![Alt text](/screenshots/bs2.png?raw=true)
+![Alt text](./screenshots/bs2.PNG?raw=true)
 
-![Alt text](/screenshots/bs3.png?raw=true)
+![Alt text](./screenshots/bs3.PNG?raw=true)
 
-![Alt text](/screenshots/bs4.png?raw=true)
+![Alt text](./screenshots/bs4.PNG?raw=true)
