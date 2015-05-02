@@ -1,7 +1,7 @@
 Harrison McGuire - IGN's Code-Foo 2015 Submission
 =============
 
-Hey IGN, my name is Harrison McGuire and I would to be apart of your code foo program this summer. Below in this readme I have answers and links to the questions, but for the best viewing experience you could visit my code foo website here http://harrison1.github.io/code-foo-2015/ . 
+Hey IGN, my name is Harrison McGuire and I would love to be apart of your code foo program this summer. Below in this readme I have answers and links to the questions, but for the best viewing experience you could visit my code foo website here http://harrison1.github.io/code-foo-2015/ . 
 
 But in case you don't want to visit the website, I'll put all the information here in the readme. I got the idea for the website from looking at Jeremy Week's past submission, I thought it was a excellent way to package a submission. Thanks for the tip.
 
